@@ -187,10 +187,7 @@ It detects human faces with 𝐦𝐚𝐬𝐤 𝐨𝐫 𝐧𝐨-𝐦𝐚𝐬𝐤 
 	python mask-detector-video.py -y yolov3-mask-detector -u 1
 	```
 	
-- **Output Video:**
-<p align="center">
-  <img src="https://github.com/adityap27/face-mask-detector/blob/master/media/readme-webcam.gif?raw=true">
-</p>
+
 	
 ### Note
 - All the results(images & videos) shown are output of yolov3, you can use yolov4 for better results.
