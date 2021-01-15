@@ -60,10 +60,6 @@ It detects human faces with 𝐦𝐚𝐬𝐤 𝐨𝐫 𝐧𝐨-𝐦𝐚𝐬𝐤 
 |**Test Set**| 120 | 503 | 156 |
 |**Total**|920|3828|1073|
 
-- **Download the Dataset here**:
-	+ [Github Link](https://github.com/adityap27/face-mask-detector/tree/master/dataset) or
-	+ [Kaggle Link](https://www.kaggle.com/aditya276/face-mask-dataset-yolo-format)
-
 ## Deep Learning Models
 
 ### 1. Training
